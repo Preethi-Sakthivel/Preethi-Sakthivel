@@ -45,7 +45,7 @@
 - Automated multi-sheet Excel attendance data into presence, WFH, and sick leave visuals.
 - Achieved 90% reduction in manual reporting effort.
 
-🧠 *Explore more in my [Project Portfolio](https://your-portfolio-link.com)*
+🧠 *Explore more in my [Project Portfolio](https://preethi-sakthivel.github.io/))*
 
 ---
 
@@ -61,13 +61,13 @@
 ## 📫 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-url/" target="_blank">
+  <a href="(https://www.linkedin.com/in/preethi-sakthivel-proanalyst/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Preethi-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:preethiproanalyst@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="(https://preethi-sakthivel.github.io/)" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-My%20Projects-orange?style=for-the-badge&logo=portfolio" />
   </a>
 </p>
