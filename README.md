@@ -1,12 +1,12 @@
 <!-- Header banner image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Preethi-Sakthivel/your-repo/main/assets/banner.png" alt="Preethi Sakthivel | Business Intelligence Analyst" width="100%" />
+  <img src="https://raw.githubusercontent.com/Preethi-Sakthivel/your-repo/main/assets/banner.png" alt="Preethi Sakthivel | Aspiring Business Intelligence Analyst" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Preethi Sakthivel 👋</h1>
 
 <p align="center">
-  🎯 Business Intelligence Analyst | 📊 Power BI • SQL • DAX<br>
+  🎯Aspiring Business Intelligence Analyst | 📊 Power BI • SQL • DAX<br>
   Passionate about transforming raw data into powerful stories and actionable dashboards.
 </p>
 
@@ -45,15 +45,15 @@
 - Automated multi-sheet Excel attendance data into presence, WFH, and sick leave visuals.
 - Achieved 90% reduction in manual reporting effort.
 
-🧠 *Explore more in my [Project Portfolio](https://preethi-sakthivel.github.io/))*
+🧠 *Explore more in my [Project Portfolio](https://preethi-sakthivel.github.io/)*
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Preethi-Sakthivel&show_icons=true&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preethi-Sakthivel&layout=compact&theme=radical" height="150"/>
 </p>
 
 ---
@@ -61,13 +61,13 @@
 ## 📫 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-url/" target="_blank">
+  <a href="https://www.linkedin.com/in/[your-linkedin-url](https://www.linkedin.com/in/preethi-sakthivel-proanalyst/)/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Preethi-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:preethiproanalyst@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://[your-portfolio-link.com](https://preethi-sakthivel.github.io/)" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-My%20Projects-orange?style=for-the-badge&logo=portfolio" />
   </a>
 </p>
