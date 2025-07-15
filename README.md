@@ -61,13 +61,13 @@
 ## 📫 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/(https://www.linkedin.com/in/preethi-sakthivel-proanalyst/)/" target="_blank">
+  <a href="(https://www.linkedin.com/in/preethi-sakthivel-proanalyst/)/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Preethi-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:preethiproanalyst@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://(https://preethi-sakthivel.github.io/)" target="_blank">
+  <a href="(https://preethi-sakthivel.github.io/)" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-My%20Projects-orange?style=for-the-badge&logo=portfolio" />
   </a>
 </p>
