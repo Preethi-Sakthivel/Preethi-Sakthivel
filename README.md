@@ -1,4 +1,4 @@
-<!-- Header banner image -->
+github image.png
 <p align="center">
   <img src="https://raw.githubusercontent.com/Preethi-Sakthivel/your-repo/main/assets/banner.png" alt="Preethi Sakthivel | Aspiring Business Intelligence Analyst" width="100%" />
 </p>
