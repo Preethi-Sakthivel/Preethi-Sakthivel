@@ -1,4 +1,3 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/20d5e49f-3790-4061-b7d4-c76d0de32351" />
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Preethi-Sakthivel/your-repo/main/assets/banner.png" alt="Preethi Sakthivel | Aspiring Business Intelligence Analyst" width="100%" />
@@ -62,13 +61,13 @@
 ## 📫 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-url/" target="_blank">
+  <a href="https://www.linkedin.com/in/linkedin.com/in/preethi-sakthivel-proanalyst//" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Preethi-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:your.email@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://preethi-sakthivel.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-My%20Projects-orange?style=for-the-badge&logo=portfolio" />
   </a>
 </p>
